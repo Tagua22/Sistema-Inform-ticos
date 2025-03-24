@@ -19,4 +19,22 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos adquiridos
 - Desarrollar habilidades prácticas en la administración de sistemas operativos.
 - Implementar soluciones de red y seguridad informática.
 - Fomentar el trabajo en equipo y la colaboración en proyectos tecnológicos.
-- Documentar y compartir conocimientos a ▋
+- Documentar y compartir conocimientos a través de ejemplos prácticos.
+
+## Tecnologías Utilizadas
+- **Sistemas Operativos:** Windows Server, Linux (Ubuntu, CentOS)
+- **Redes:** Configuración de routers y switches, VLANs, VPNs
+- **Seguridad:** Firewalls, IDS/IPS, políticas de seguridad
+- **Herramientas de Administración:** Ansible, Docker, VirtualBox
+
+## Estructura del Proyecto
+```plaintext
+├── Documentación/
+│   ├── Manuales/
+│   ├── Instrucciones/
+├── Scripts/
+│   ├── Bash/
+│   ├── PowerShell/
+├── Configuración/
+│   ├── Redes/
+│   ├── Seguridad/
