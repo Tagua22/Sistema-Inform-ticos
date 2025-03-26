@@ -44,4 +44,4 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos adquiridos
 - Tagua
 - Alberto
 - Aytor
-- K.
+- **K.**
