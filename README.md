@@ -1,6 +1,6 @@
 # Sistemas Informáticos en DAW - Trabajo en Grupos
 
-Bienvenidos al repositorio de `Sistemas Informáticos`, un proyecto colaborativo desarrollado por estudiantes del Grado Superior de Desarrollo de Aplicaciones Web (DAW). Rama de k.
+Bienvenidos al repositorio de `Sistemas Informáticos`, un proyecto colaborativo desarrollado por estudiantes del Grado Superior de Desarrollo de Aplicaciones Web (DAW).
 
 ## Índice
 1. [Descripción](#descripción)
