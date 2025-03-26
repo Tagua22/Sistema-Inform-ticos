@@ -45,3 +45,9 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos adquiridos
 - Alberto
 - Aytor
 - **K.**
+
+## Instalación y Uso
+1. En vscode, instalar la extensión "Github Pull Request", también he usado "Source Control", que creo que viene instalado por defecto.
+2. En la extensión, iniciar sesión con la cuenta de GitHub.
+3. Hacer git pull del repositorio y abrir la carpeta en VsCode.
+4. Se habilitarán las opciones de la extensión para poder subir el repo y modificarlo.
