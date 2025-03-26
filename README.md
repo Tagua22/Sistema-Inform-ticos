@@ -38,3 +38,9 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos adquiridos
 ├── Configuración/
 │   ├── Redes/
 │   ├── Seguridad/
+
+## Colaboradores
+- Tagua
+- Alberto
+- Aytor
+- K.
