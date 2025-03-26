@@ -23,5 +23,5 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos adquiridos
 - **Seguridad:** Firewalls, IDS/IPS, políticas de seguridad
 - **Herramientas de Administración:** Ansible, Docker, VirtualBox
 
-## Tawa
+## Tagua
 - Soy tagua.
