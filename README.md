@@ -4,12 +4,14 @@ Bienvenidos al repositorio de `Sistemas Informáticos`, un proyecto colaborativo
 
 ## Índice
 
-1. [Descripción](#descripción)
-2. [Objetivos](#objetivos)
-3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Colaboradores](#colaboradores)
-6. [Instalación y Uso](#instalación-y-uso)
+- [Sistemas Informáticos en DAW - Trabajo en Grupos](#sistemas-informáticos-en-daw---trabajo-en-grupos)
+  - [Índice](#índice)
+  - [Descripción](#descripción)
+  - [Objetivos](#objetivos)
+  - [Tecnologías Utilizadas](#tecnologías-utilizadas)
+  - [Estructura del Proyecto](#estructura-del-proyecto)
+  - [Colaboradores](#colaboradores)
+  - [Instalación y Uso](#instalación-y-uso)
 
 ## Descripción
 
